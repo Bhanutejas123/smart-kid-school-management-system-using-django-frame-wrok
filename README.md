@@ -1,0 +1,1 @@
+# smart-kid-school-management-system-using-django-frame-wrok
